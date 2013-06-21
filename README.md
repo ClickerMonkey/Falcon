@@ -48,8 +48,10 @@ server.close();
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/falcon/tree/master/build
+- [falcon-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.0.jar?raw=true)
+- [falcon-src-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.0.jar?raw=true) *- includes source code*
+- [falcon-all-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.0.jar?raw=true) *- includes all dependencies*
+- [falcon-all-src-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Dependencies**
 - [taskaroo](https://github.com/ClickerMonkey/taskaroo)
@@ -60,5 +62,4 @@ https://github.com/ClickerMonkey/falcon/tree/master/build
 - [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-
-https://github.com/ClickerMonkey/falcon/tree/master/Examples/org/magnos/net/examples
+- [Examples/org/magnos/net/examples](https://github.com/ClickerMonkey/falcon/tree/master/Examples/org/magnos/net/examples)
