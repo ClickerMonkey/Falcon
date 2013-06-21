@@ -51,6 +51,14 @@ server.close();
 
 https://github.com/ClickerMonkey/falcon/tree/master/build
 
+**Dependencies**
+- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
+- [surfice](https://github.com/ClickerMonkey/surfice)
+- [zource](https://github.com/ClickerMonkey/zource)
+- [buffero](https://github.com/ClickerMonkey/buffero)
+- [curity](https://github.com/ClickerMonkey/curity)
+- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+
 **Testing Examples**
 
 https://github.com/ClickerMonkey/falcon/tree/master/Examples/org/magnos/net/examples
