@@ -48,10 +48,10 @@ server.close();
 ```
 
 **Builds**
-- [falcon-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.0.jar?raw=true)
-- [falcon-src-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.0.jar?raw=true) *- includes source code*
-- [falcon-all-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.0.jar?raw=true) *- includes all dependencies*
-- [falcon-all-src-1.0.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
+- [falcon-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true)
+- [falcon-src-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes source code*
+- [falcon-all-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true) *- includes all dependencies*
+- [falcon-all-src-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Dependencies**
 - [taskaroo](https://github.com/ClickerMonkey/taskaroo)
