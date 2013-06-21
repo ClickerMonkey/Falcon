@@ -3,6 +3,15 @@ falcon
 
 A fast Java networking library that has a unified API over various networking technologies: TCP, UDP, blocking (OIO), and non-blocking (NIO).
 
+*Disclaimer: this is a work in progress, although should operate fine as is. Plans for refactoring and heavier testing are in the works*
+
+**Features**
+- Either OIO (java.io) or NIO (java.nio) can be used. The blocking-nature of the underlying library is hidden.
+- Either TCP or UDP can be used, the underlying transport protocol is hidden.
+- This is an entirely event-driven framework, only the client initiates events, the server reacts and can respond or notify other clients however it likes.
+- This is protocol independent, any protocol (like HTTP, FTP, etc) can be written for it.
+- Entirely thread-safe
+
 **Example**
 
 ```java
