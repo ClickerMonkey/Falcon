@@ -12,6 +12,9 @@ A fast Java networking library that has a unified API over various networking te
 - This is protocol independent, any protocol (like HTTP, FTP, etc) can be written for it.
 - Entirely thread-safe
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/falcon/)
+
 **Example**
 
 ```java
