@@ -13,7 +13,7 @@ A fast Java networking library that has a unified API over various networking te
 - Entirely thread-safe
 
 **Documentation**
-- [JavaDoc](http://clickermonkey.github.com/falcon/)
+- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/falcon/)
 
 **Example**
 
@@ -60,18 +60,18 @@ server.close();
 ```
 
 **Builds**
-- [falcon-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true)
-- [falcon-src-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes source code*
-- [falcon-all-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true) *- includes all dependencies*
-- [falcon-all-src-1.0.jar](https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes all dependencies and source code*
+- [falcon-1.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true)
+- [falcon-src-1.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes source code*
+- [falcon-all-1.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-1.0.jar?raw=true) *- includes all dependencies*
+- [falcon-all-src-1.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon/blob/master/build/falcon-src-1.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Dependencies**
-- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
-- [surfice](https://github.com/ClickerMonkey/surfice)
-- [zource](https://github.com/ClickerMonkey/zource)
-- [buffero](https://github.com/ClickerMonkey/buffero)
-- [curity](https://github.com/ClickerMonkey/curity)
-- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+- [taskaroo](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/taskaroo)
+- [surfice](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice)
+- [zource](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/zource)
+- [buffero](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero)
+- [curity](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/curity)
+- [testility](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-- [Examples/org/magnos/net/examples](https://github.com/ClickerMonkey/falcon/tree/master/Examples/org/magnos/net/examples)
+- [Examples/org/magnos/net/examples](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon/tree/master/Examples/org/magnos/net/examples)
