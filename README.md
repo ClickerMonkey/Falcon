@@ -1,6 +1,8 @@
 falcon
 ======
 
+![Alpha](http://i4.photobucket.com/albums/y123/Freaklotr4/stage_alpha.png)
+
 A fast Java networking library that has a unified API over various networking technologies: TCP, UDP, blocking (OIO), and non-blocking (NIO).
 
 *Disclaimer: this is a work in progress, although should operate fine as is. Plans for refactoring and heavier testing are in the works*
